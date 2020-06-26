@@ -2,7 +2,7 @@
     <section class="content">
     	<div class="container-fluid">
     		<div class="block-header">
-    			<h2>MANAJEMEN USER</h2>
+    			<h2>MANAJEMEN USER SISWA</h2>
     		</div>
 
     		<!-- Basic Examples -->
